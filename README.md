@@ -1,6 +1,4 @@
-
 # ⚠️ This Repository was moved to the [Cambio Project](https://github.com/Cambio-Project/resilience-simulator) ⚠️
-
 
 ## MiSim Microservice Resilience Simulator
 
